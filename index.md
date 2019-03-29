@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# 情伤赶deadline不听歌就跟死了一样的
+by Qin Yu,  Mar 2019.
 
-You can use the [editor on GitHub](https://github.com/qin-yu/music-list/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 喜欢还疯狂给人推荐过的歌
+举个:chestnut:：小众逼格的法语歌。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* You're Not There - Lukas Graham
+* Wicked Man's Rest - Passenger
+* Nothing Breaks Like a Heart - Mark Ronson, Miley Cyrus
 
-### Markdown
+## 朋友疯狂推荐到我心坎的歌
+举个:chestnut:：n/a
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Grapevine Valentine - Kingsfoil
 
-```markdown
-Syntax highlighted code block
+## 别人一听到就问我名字的歌
+举个:chestnut:：
 
-# Header 1
-## Header 2
-### Header 3
+* 往后余生 - 马良，孙茜茹
+* Beach - ?
 
-- Bulleted
-- List
+## ﹌★`ぼ喜歡qυē吥好癔思說聽鐹旳謌ゆ╳灬
+举个:chestnut:：初中听过的非主流。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qin-yu/music-list/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 别把疼你的人弄丢了 - 雨宗林
+* 叹云兮 - 鞠婧祎
